@@ -1,0 +1,24 @@
+  img {
+    border: 1px solid white;
+    border-radius: 5px;
+    max-width: 350px;
+    width: 100%;
+  }
+  
+  a {
+    color: white;
+  }
+  
+  a:hover {
+    opacity: 0.8;
+  }
+  
+  .content {
+    width: 65%;
+    padding-left: 30px;
+    padding-right: 20px;
+  }
+  
+  .content p {
+    max-width: 80%;
+  }
